@@ -1,14 +1,13 @@
 import type { Metadata } from "next";
 import { Inter, Montserrat } from "next/font/google";
-// import Navbar from "@/components/global/Navbar";
+import Navbar from "../components/global/Navbar";
 import Footer from "../components/global/Footer";
 import FloatingSidebar from "../components/global/FloatingSidebar";
 import "./globals.css";
 import CrispChat from "../components/global/CrispChat";
 import { ModalProvider } from "../context/ModalContext";
 import localFont from "next/font/local";
-import Script from "next/script"; // 1. Import the Script component
-import Navbar from "../components/global/Navbar";
+import Script from "next/script"; // Required for proper GTM integration
 
 const gilroy = localFont({
   src: [
@@ -26,7 +25,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Penguin Books Publisher | Premium Book Services",
+  title: "Penguin Book Publishers | Premium Book Services",
   description: "End-to-end professional book writing, editing, and publishing solutions.",
 };
 
@@ -34,7 +33,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${inter.variable} ${montserrat.variable}`}>
       <head>
-        {/* 2. Google Tag Manager - Head Script  */}
+        {/* ================= Google Tag Manager (Head) ================= */}
         <Script
           id="gtm-script"
           strategy="afterInteractive"
@@ -43,19 +42,19 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
             j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-PN8498QT');`,
+            })(window,document,'script','dataLayer','GTM-MV6PWC3J');`,
           }}
         />
       </head>
       <body className={`${gilroy.className} bg-slate-50 antialiased flex flex-col min-h-screen text-slate-800 relative`}>
         
-        {/* 3. Google Tag Manager (noscript) - Immediately after opening body tag */}
+        {/* ================= Google Tag Manager (NoScript) ================= */}
         <noscript>
           <iframe 
-            src="https://www.googletagmanager.com/ns.html?id=GTM-PN8498QT"
+            src="https://www.googletagmanager.com/ns.html?id=GTM-MV6PWC3J"
             height="0" 
             width="0" 
-            style={{ display: 'none', visibility: 'hidden' }}
+            style={{ display: "none", visibility: "hidden" }}
           />
         </noscript>
 
