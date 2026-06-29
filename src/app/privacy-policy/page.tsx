@@ -12,7 +12,7 @@ export default function PrivacyPolicyPage() {
         <div className="prose prose-white-w-none text-white space-y-6">
           <h3 className="text-xl font-bold text-white mt-8 mb-4">Introduction</h3>
           <p>
-            Penguin Book Publishers ("we," "us," or "our") is committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, and share information about you when you use our website, services, and products (collectively, the "Services").
+            Penguin Books Publisher ("we," "us," or "our") is committed to protecting the privacy and security of your personal information. This Privacy Policy explains how we collect, use, and share information about you when you use our website, services, and products (collectively, the "Services").
           </p>
 
           <h3 className="text-xl font-bold text-white mt-8 mb-4">Information We Collect</h3>
@@ -57,7 +57,7 @@ export default function PrivacyPolicyPage() {
           </p>
 
           <div className="bg-black border border-white p-4 rounded-lg mt-8 text-sm italic">
-            <strong>Disclaimer:</strong> Penguin Book Publishers is an independent entity, unaffiliated with, sponsored by, or associated with any other companies or brands with similar or identical names, including major publishing companies or corporations. All content, services, and products offered through our website are exclusively provided by Penguin Book Publishers and are not endorsed or approved by any other entities.
+            <strong>Disclaimer:</strong> Penguin Books Publisher is an independent entity, unaffiliated with, sponsored by, or associated with any other companies or brands with similar or identical names, including major publishing companies or corporations. All content, services, and products offered through our website are exclusively provided by Penguin Books Publisher and are not endorsed or approved by any other entities.
           </div>
         </div>
       </div>

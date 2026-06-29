@@ -26,7 +26,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "Penguin Book Publishers | Premium Book Services",
+  title: "Penguin Books Publisher | Premium Book Services",
   description: "End-to-end professional book writing, editing, and publishing solutions.",
 };
 

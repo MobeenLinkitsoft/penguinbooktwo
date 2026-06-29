@@ -12,12 +12,12 @@ export default function TermsAndConditionsPage() {
         <div className="prose prose-white-w-none text-white space-y-6">
           <h3 className="text-xl font-bold text-white mt-8 mb-4">Introduction</h3>
           <p>
-            Welcome to Penguin Book Publishers. These Terms and Conditions ("Terms") govern your use of our website and Services. By accessing or using our Services, you agree to comply with and be bound by these Terms.
+            Welcome to Penguin Books Publisher. These Terms and Conditions ("Terms") govern your use of our website and Services. By accessing or using our Services, you agree to comply with and be bound by these Terms.
           </p>
 
           <h3 className="text-xl font-bold text-white mt-8 mb-4">Services</h3>
           <p>
-            Penguin Book Publishers offers a range of publishing services, including book publishing, editing, marketing, and more. The specific terms and conditions for each service will be provided at the time of engagement.
+            Penguin Books Publisher offers a range of publishing services, including book publishing, editing, marketing, and more. The specific terms and conditions for each service will be provided at the time of engagement.
           </p>
 
           <h3 className="text-xl font-bold text-white mt-8 mb-4">User Obligations</h3>
@@ -28,7 +28,7 @@ export default function TermsAndConditionsPage() {
 
           <h3 className="text-xl font-bold text-white mt-8 mb-4">Intellectual Property</h3>
           <ul className="list-decimal pl-6 space-y-2">
-            <li><strong>Ownership:</strong> All content provided by Penguin Book Publishers, including text, graphics, logos, and software, is the property of Penguin Book Publishers or its licensors and is protected by copyright, trademark, and other intellectual property laws.</li>
+            <li><strong>Ownership:</strong> All content provided by Penguin Books Publisher, including text, graphics, logos, and software, is the property of Penguin Books Publisher or its licensors and is protected by copyright, trademark, and other intellectual property laws.</li>
             <li><strong>License:</strong> You are granted a limited, non-exclusive, non-transferable license to access and use our Services for personal and non-commercial purposes.</li>
           </ul>
 
@@ -40,7 +40,7 @@ export default function TermsAndConditionsPage() {
 
           <h3 className="text-xl font-bold text-white mt-8 mb-4">Limitation of Liability</h3>
           <p>
-            Penguin Book Publishers will not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of our Services. Our total liability to you for any claims arising out of or related to our Services is limited to the amount paid by you for the Services.
+            Penguin Books Publisher will not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of our Services. Our total liability to you for any claims arising out of or related to our Services is limited to the amount paid by you for the Services.
           </p>
 
           <h3 className="text-xl font-bold text-white mt-8 mb-4">Governing Law</h3>
@@ -59,7 +59,7 @@ export default function TermsAndConditionsPage() {
           </p>
 
           <div className="bg-black border border-white p-4 rounded-lg mt-8 text-sm italic">
-            <strong>Disclaimer:</strong> Penguin Book Publishers is an independent entity, unaffiliated with, sponsored by, or associated with any other companies or brands with similar or identical names, including major publishing companies or corporations. All content, services, and products offered through our website are exclusively provided by Penguin Book Publishers and are not endorsed or approved by any other entities.
+            <strong>Disclaimer:</strong> Penguin Books Publisher is an independent entity, unaffiliated with, sponsored by, or associated with any other companies or brands with similar or identical names, including major publishing companies or corporations. All content, services, and products offered through our website are exclusively provided by Penguin Books Publisher and are not endorsed or approved by any other entities.
           </div>
         </div>
       </div>

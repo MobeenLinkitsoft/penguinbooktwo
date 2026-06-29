@@ -45,7 +45,7 @@ export default function Home() {
     {
       name: "Sarah Jenkins",
       role: "Fiction Author",
-      text: "Penguin Book Publishers transformed my raw manuscript into a polished masterpiece. Their editing team was incredibly thorough, and the cover design blew me away. I hit #1 in my category within a week of launch!",
+      text: "Penguin Books Publisher transformed my raw manuscript into a polished masterpiece. Their editing team was incredibly thorough, and the cover design blew me away. I hit #1 in my category within a week of launch!",
     },
     {
       name: "David Arquette",
@@ -115,7 +115,7 @@ export default function Home() {
         <div className="relative z-10 max-w-7xl mx-auto px-6 w-full pt-32 pb-16 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-7 space-y-8">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white leading-tight tracking-tight">
-              Our Book Publishing Services Are The Boost To Your Book!
+              Boost Your Book with Our Professional Publishing Service!
             </h1>
             <p className="text-lg text-slate-300 max-w-xl leading-relaxed font-medium">
               We provide end-to-end book writing, editing, publishing, and
@@ -158,12 +158,12 @@ export default function Home() {
                 <input
                   type="hidden"
                   name="access_key"
-                  value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2"
+                  value="f10abfcd-14e6-40dc-852b-ed7b35bd9825"
                 />
                 <input
                   type="hidden"
                   name="redirect"
-                  value="https://penguinbookpublishers.com/thank-you"
+                  value="https://penguinbookspublisher.com/thank-you"
                 />
 
                 <input
@@ -769,7 +769,7 @@ export default function Home() {
               About Us
             </h2>
             <h4 className="text-yellow-600 font-bold uppercase tracking-widest text-sm">
-              Penguin Book Publishers
+              Penguin Books Publisher
             </h4>
             <p className="text-slate-600 leading-relaxed">
               We are a team of passionate literary experts, designers, and
@@ -800,12 +800,12 @@ export default function Home() {
                   <input
                     type="hidden"
                     name="access_key"
-                    value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2"
+                    value="f10abfcd-14e6-40dc-852b-ed7b35bd9825"
                   />
                   <input
                     type="hidden"
                     name="redirect"
-                    value="https://penguinbookpublishers.com/thank-you"
+                    value="https://penguinbookspublisher.com/thank-you"
                   />
 
                   <input

@@ -74,8 +74,8 @@ export default function ArticleWritingPage() {
               <p className="text-sm text-slate-500 mb-8">Consult with a senior content strategist for free.</p>
               
              <form action="https://api.web3forms.com/submit" method="POST" className="space-y-4">
-                <input type="hidden" name="access_key" value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2" />
-                <input type="hidden" name="redirect" value="https://penguinbookpublishers.com/thank-you" />
+                <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
+                <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
 
                 <input
                   type="text"
@@ -349,8 +349,8 @@ export default function ArticleWritingPage() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {/* Left Column */}
                 <div className="flex flex-col gap-6">
-                  <input type="hidden" name="access_key" value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2" />
-                  <input type="hidden" name="redirect" value="https://penguinbookpublishers.com/thank-you" />
+                  <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
+                  <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
   
                   <input
                     type="text"

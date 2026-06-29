@@ -20,13 +20,13 @@ export default function TestimonialsPage() {
     {
       name: "Rose O Sullivan",
       review:
-        "Penguin Book Publishers is a great place to get your book written. They have experienced ghostwriters on board who actually walk extra miles to fulfill your expectations. I have worked with them and got truly impressed.",
+        "Penguin Books Publisher is a great place to get your book written. They have experienced ghostwriters on board who actually walk extra miles to fulfill your expectations. I have worked with them and got truly impressed.",
       metrics: ["Communication", "Quality of Work", "Delivery", "Support"],
     },
     {
       name: "Brian Payne",
       review:
-        "I can highly recommend Penguin Book Publishers as a fantastic company with really helpful people. Their Book Printing service delivered crisp, beautiful hardcovers right on time. I could not have self-published without them.",
+        "I can highly recommend Penguin Books Publisher as a fantastic company with really helpful people. Their Book Printing service delivered crisp, beautiful hardcovers right on time. I could not have self-published without them.",
       metrics: ["Communication", "Quality of Work", "Delivery", "Support"],
     },
     {
@@ -92,7 +92,7 @@ export default function TestimonialsPage() {
     {
       name: "Linda Meyers",
       review:
-        "From the initial ghostwriting draft to the final Book Printing, Penguin Book Publishers held my hand through the entire process. My memoirs are beautifully bound and the paper quality is top-notch.",
+        "From the initial ghostwriting draft to the final Book Printing, Penguin Books Publisher held my hand through the entire process. My memoirs are beautifully bound and the paper quality is top-notch.",
       metrics: ["Communication", "Quality of Work", "Delivery", "Support"],
     },
     {
@@ -314,7 +314,7 @@ export default function TestimonialsPage() {
     {
       name: "Leo King",
       review:
-        "From designing my Author Website to producing my Book Trailer, Penguin Book Publishers has been my go-to agency. They are a true one-stop-shop for serious authors.",
+        "From designing my Author Website to producing my Book Trailer, Penguin Books Publisher has been my go-to agency. They are a true one-stop-shop for serious authors.",
       metrics: ["Communication", "Quality of Work", "Delivery", "Support"],
     },
   ];
@@ -432,7 +432,7 @@ export default function TestimonialsPage() {
             Ready to write your own success story?
           </h2>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto leading-relaxed">
-            Join thousands of authors who have transformed their manuscripts into global bestsellers with Penguin Book Publishers.
+            Join thousands of authors who have transformed their manuscripts into global bestsellers with Penguin Books Publisher.
           </p>
           <div className="flex flex-wrap justify-center gap-4 pt-8">
             <button
@@ -471,8 +471,8 @@ export default function TestimonialsPage() {
             >
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div className="flex flex-col gap-6">
-                  <input type="hidden" name="access_key" value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2" />
-                  <input type="hidden" name="redirect" value="https://penguinbookpublishers.com/thank-you" />
+                  <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
+                  <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
                   
                   <input type="text" placeholder="Full Name" required name="name" className="w-full border-b-2 border-slate-200 p-4 text-sm focus:border-yellow-500 outline-none transition bg-slate-50/50 rounded-t-md" />
                   <input type="email" placeholder="Email Address" name="email" required className="w-full border-b-2 border-slate-200 p-4 text-sm focus:border-yellow-500 outline-none transition bg-slate-50/50 rounded-t-md" />

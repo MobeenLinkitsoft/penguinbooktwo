@@ -102,8 +102,8 @@ export default function BookIllustrationsPage() {
                 method="POST"
                 className="space-y-5"
               >
-                <input type="hidden" name="access_key" value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2" />
-                <input type="hidden" name="redirect" value="https://penguinbookpublishers.com/thank-you" />
+                <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
+                <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
 
                 <input
                   type="text"
@@ -200,7 +200,7 @@ export default function BookIllustrationsPage() {
             Captivating <span className="text-fuchsia-600">Book Illustration</span> Services
           </h2>
           <p className="text-slate-600 leading-relaxed text-base md:text-lg">
-            Penguin Book Publishers offers a diverse range of illustration
+            Penguin Books Publisher offers a diverse range of illustration
             styles to match the tone of your manuscript. From whimsical
             watercolors for children's books to hyper-realistic digital
             paintings for sci-fi and fantasy, our artists bring your imagination
@@ -537,11 +537,11 @@ export default function BookIllustrationsPage() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {/* Left Column */}
                 <div className="flex flex-col gap-6">
-                  <input type="hidden" name="access_key" value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2" />
+                  <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
                   <input 
                     type="hidden" 
                     name="redirect" 
-                    value="https://penguinbookpublishers.com/thank-you" 
+                    value="https://penguinbookspublisher.com/thank-you" 
                   />
   
                   <input

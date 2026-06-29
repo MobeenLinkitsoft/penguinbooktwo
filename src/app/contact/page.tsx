@@ -85,7 +85,8 @@ export default function ContactPage() {
               Tell Us About Your Project
             </h2>
             <p className="text-yellow-600 font-bold text-sm">
-              Provide your details below, and a dedicated publishing executive will contact you shortly.
+              Provide your details below, and a dedicated publishing executive
+              will contact you shortly.
             </p>
           </div>
 
@@ -102,12 +103,12 @@ export default function ContactPage() {
                   <input
                     type="hidden"
                     name="access_key"
-                    value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2"
+                    value="f10abfcd-14e6-40dc-852b-ed7b35bd9825"
                   />
                   <input
                     type="hidden"
                     name="redirect"
-                    value="https://penguinbookpublishers.com/thank-you"
+                    value="https://penguinbookspublisher.com/thank-you"
                   />
 
                   <input

@@ -15,8 +15,8 @@ export default function Footer() {
           <Link href="/" className="flex items-center gap-3 group">
             <div className="relative w-12 h-12 flex items-center justify-center transition-transform duration-300 group-hover:scale-105">
               <Image
-                src="/Image/logo.png"
-                alt="Penguin Book Publishers Logo"
+                src="/Logo.png"
+                alt="Penguin Books Publisher Logo"
                 fill
                 className="object-contain"
               />
@@ -26,7 +26,7 @@ export default function Footer() {
                 PENGUIN
               </span>
               <span className="text-yellow-500 text-[9px] font-bold tracking-[0.2em] uppercase mt-1">
-                Publishers
+                Books Publisher
               </span>
             </div>
           </Link>
@@ -174,7 +174,7 @@ export default function Footer() {
       {/* ================= Footer Bottom Bar ================= */}
       <div className="max-w-7xl mx-auto px-6 border-t border-slate-800/60 pt-6 flex flex-col md:flex-row justify-between items-center text-slate-500 text-xs font-medium">
         <p>
-          Copyright © {new Date().getFullYear()} Penguin Book Publishers. All Rights Reserved.
+          Copyright © {new Date().getFullYear()} Penguin Books Publisher. All Rights Reserved.
         </p>
         <p className="mt-2 md:mt-0">
           Empowering Independent Authors Globally.

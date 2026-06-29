@@ -120,7 +120,7 @@ export default function AboutPage() {
             Transforming Your Literary Vision into a Global Masterpiece.
           </h2>
           <p className="text-slate-600 leading-relaxed">
-            At Penguin Book Publishers, we believe every author has a story that deserves to be heard. Whether it’s a gripping fictional epic, a profound memoir, or a transformative business guide, we provide the elite infrastructure needed to bring your manuscript to life with pristine quality.
+            At Penguin Books Publisher, we believe every author has a story that deserves to be heard. Whether it’s a gripping fictional epic, a profound memoir, or a transformative business guide, we provide the elite infrastructure needed to bring your manuscript to life with pristine quality.
           </p>
           <p className="text-slate-600 leading-relaxed">
             We are a collective of veteran editors, bestselling ghostwriters, and industry-leading marketers. Our team doesn't just publish books; we build author careers. With thousands of successful titles distributed worldwide, we offer the personalized attention of a boutique agency backed by the distribution power of a major publishing house.
@@ -338,12 +338,12 @@ export default function AboutPage() {
                   <input
                     type="hidden"
                     name="access_key"
-                    value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2"
+                    value="f10abfcd-14e6-40dc-852b-ed7b35bd9825"
                   />
                   <input
                     type="hidden"
                     name="redirect"
-                    value="https://penguinbookpublishers.com/thank-you"
+                    value="https://penguinbookspublisher.com/thank-you"
                   />
 
                   <input

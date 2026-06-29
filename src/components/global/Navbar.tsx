@@ -35,8 +35,8 @@ export default function Navbar() {
         <Link href="/" className="flex items-center gap-3 group">
           <div className="relative w-10 h-10 flex items-center justify-center transition-transform duration-300 group-hover:scale-105">
             <Image
-              src="/Image/logo.png"
-              alt="Penguin Book Publishers Logo"
+              src="/Logo.png"
+              alt="Penguin Books Publisher Logo"
               fill
               className="object-contain"
               priority 
@@ -47,7 +47,7 @@ export default function Navbar() {
               PENGUIN
             </span>
             <span className="text-yellow-500 text-[9px] font-bold tracking-[0.2em] uppercase mt-0.5">
-              Publishers
+              Books Publisher
             </span>
           </div>
         </Link>

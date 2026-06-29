@@ -44,7 +44,7 @@ export default function BookWritingPage() {
               Professional Book Writing Services Tailored to Your Genre and Niche.
             </h1>
             <p className="text-lg text-slate-300 max-w-xl leading-relaxed font-medium">
-              At Penguin Book Publishers, your vision is safe in the hands of our professional book writers. We map everything from chapter outlining to proofreading perfectly.
+              At Penguin Books Publisher, your vision is safe in the hands of our professional book writers. We map everything from chapter outlining to proofreading perfectly.
             </p>
             <div className="flex flex-wrap gap-4 pt-2">
               <button 
@@ -76,11 +76,11 @@ export default function BookWritingPage() {
                 method="POST"
                 className="space-y-4"
               >
-                <input type="hidden" name="access_key" value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2" />
+                <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
                 <input 
                   type="hidden" 
                   name="redirect" 
-                  value="https://penguinbookpublishers.com/thank-you" 
+                  value="https://penguinbookspublisher.com/thank-you" 
                 />
 
                 <input
@@ -382,11 +382,11 @@ export default function BookWritingPage() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 {/* Left Column */}
                 <div className="flex flex-col gap-6">
-                  <input type="hidden" name="access_key" value="75a6dce0-fd56-4a07-8fdf-96b1af7c5da2" />
+                  <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
                   <input 
                     type="hidden" 
                     name="redirect" 
-                    value="https://penguinbookpublishers.com/thank-you" 
+                    value="https://penguinbookspublisher.com/thank-you" 
                   />
   
                   <input

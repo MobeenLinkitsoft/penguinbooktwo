@@ -10,16 +10,16 @@ export default function RefundPolicyPage() {
         </div>
 
         <div className="prose prose-white-w-none text-white space-y-6">
-          <p>Penguin Book Publishers refund policy is <strong>not applicable</strong> when:</p>
+          <p>Penguin Books Publisher refund policy is <strong>not applicable</strong> when:</p>
           <ul className="list-disc pl-6 space-y-2">
             <li>You choose a discounted coupon</li>
             <li>You choose a promo/special service package</li>
             <li>You have approved the initial draft</li>
             <li>You have requested revisions</li>
-            <li>You have canceled the order due to non-related reasons in regard to the Penguin Book Publishers and its policies</li>
-            <li>You have not contacted Penguin Book Publishers for more than 2 weeks since the project initiated</li>
-            <li>You have violated Penguin Book Publishers terms & conditions and privacy policy</li>
-            <li>You have approached another service provider or freelancer for the same project assigned to Penguin Book Publishers</li>
+            <li>You have canceled the order due to non-related reasons in regard to the Penguin Books Publisher and its policies</li>
+            <li>You have not contacted Penguin Books Publisher for more than 2 weeks since the project initiated</li>
+            <li>You have violated Penguin Books Publisher terms & conditions and privacy policy</li>
+            <li>You have approached another service provider or freelancer for the same project assigned to Penguin Books Publisher</li>
             <li>You have provided an incomplete project brief</li>
             <li>You have demanded a change in the any draft</li>
             <li>You have exceeded from the maximum time allowed to 'request for refund' and make claims</li>
@@ -41,10 +41,10 @@ export default function RefundPolicyPage() {
           </ul>
 
           <p className="mt-4">
-            We will try to resolve your query and concern in light of our revision policy immediately or else will email you a refund request approval from our refund department. After the refund, the rights to your draft would be transferred to Penguin Book Publishers and you would not legally be allowed to use any version of the draft sent by the company.
+            We will try to resolve your query and concern in light of our revision policy immediately or else will email you a refund request approval from our refund department. After the refund, the rights to your draft would be transferred to Penguin Books Publisher and you would not legally be allowed to use any version of the draft sent by the company.
           </p>
           <p>
-            Since the rights to the draft would now be transferred to Penguin Book Publishers, you concur that you will have no right (immediate or circuitous) to use any reaction or other substance, work item or media, nor will you have any ownership interest for or to the same.
+            Since the rights to the draft would now be transferred to Penguin Books Publisher, you concur that you will have no right (immediate or circuitous) to use any reaction or other substance, work item or media, nor will you have any ownership interest for or to the same.
           </p>
           <p>
             If you have any questions or concerns about our Refund Policy, please get in touch with us at <strong>info@penguinbookspublishers.com</strong>.
@@ -58,11 +58,11 @@ export default function RefundPolicyPage() {
             <li>No refund request will be entertained after 120 hours of your initial draft delivery, however since we believe in 100% customer satisfaction you're encouraged to contact us in case of any concern.</li>
           </ul>
           <p className="mt-4">
-            All refund requests should be communicated to the support department. Penguin Book Publishers, based on the violation of your user agreement reserves the right to approve/disapprove your request on an individual case to case basis.
+            All refund requests should be communicated to the support department. Penguin Books Publisher, based on the violation of your user agreement reserves the right to approve/disapprove your request on an individual case to case basis.
           </p>
 
           <div className="bg-black border border-white p-4 rounded-lg mt-8 text-sm italic">
-            <strong>Disclaimer:</strong> Penguin Book Publishers is an independent entity, unaffiliated with, sponsored by, or associated with any other companies or brands with similar or identical names, including major publishing companies or corporations. All content, services, and products offered through our website are exclusively provided by Penguin Book Publishers and are not endorsed or approved by any other entities.
+            <strong>Disclaimer:</strong> Penguin Books Publisher is an independent entity, unaffiliated with, sponsored by, or associated with any other companies or brands with similar or identical names, including major publishing companies or corporations. All content, services, and products offered through our website are exclusively provided by Penguin Books Publisher and are not endorsed or approved by any other entities.
           </div>
         </div>
       </div>
