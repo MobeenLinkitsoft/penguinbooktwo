@@ -481,10 +481,10 @@ export default function BookWritingPage() {
             <div className="text-center space-y-3">
               <h4 className="font-bold text-slate-900">Send us Email</h4>
               <a
-                href="mailto:info@penguinbookpublishers.net"
+                href="mailto:info@penguinbookspublisher.com "
                 className="block w-full border border-yellow-400 text-yellow-600 font-medium py-3 px-4 rounded-md hover:bg-yellow-50 transition bg-white text-sm md:text-base"
               >
-                info@penguinbookpublishers.net
+                info@penguinbookspublisher.com 
               </a>
             </div>
           </div>

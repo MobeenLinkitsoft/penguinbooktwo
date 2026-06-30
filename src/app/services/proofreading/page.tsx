@@ -555,7 +555,7 @@ export default function BookEditingPage() {
               <Mail className="w-8 h-8 text-amber-600 mx-auto" />
               <h4 className="font-bold text-slate-900">Send an Email</h4>
               <a
-                href="mailto:info@penguinbookpublishers.net"
+                href="mailto:info@penguinbookspublisher.com "
                 className="block w-full bg-white border border-amber-200 text-amber-700 font-bold py-2.5 px-4 rounded hover:bg-amber-50 transition-colors text-xs md:text-sm uppercase tracking-widest truncate"
               >
                 Email Us

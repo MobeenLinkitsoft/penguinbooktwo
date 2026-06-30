@@ -529,10 +529,10 @@ export default function AuthorWebsitePage() {
               </div>
               <h4 className="font-bold text-slate-900">Send us Email</h4>
               <a
-                href="mailto:info@penguinbookpublishers.net"
+                href="mailto:info@penguinbookspublisher.com "
                 className="block w-full text-indigo-600 font-semibold py-2.5 px-4 rounded-lg hover:bg-indigo-50 transition-colors text-sm"
               >
-                info@penguinbookpublishers.net
+                info@penguinbookspublisher.com 
               </a>
             </div>
           </div>

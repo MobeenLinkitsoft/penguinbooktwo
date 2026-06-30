@@ -42,7 +42,7 @@ export default function FloatingSidebar() {
 
       {/* Email Us */}
       <a
-        href="mailto:info@penguinbookpublishers.net"
+        href="mailto:info@penguinbookspublisher.com "
         className="bg-yellow-600 text-white p-3 hover:bg-yellow-700 transition flex flex-col items-center justify-center gap-1 group"
       >
         <Mail size={20} className="group-hover:scale-110 transition" />

@@ -137,11 +137,11 @@ export default function Footer() {
               </div>
               +1 646 344 0382
             </a>
-            <a href="mailto:info@penguinbookpublishers.net" className="flex items-center gap-3 hover:text-yellow-500 transition">
+            <a href="mailto:info@penguinbookspublisher.com " className="flex items-center gap-3 hover:text-yellow-500 transition">
               <div className="w-8 h-8 rounded-full bg-slate-800 flex items-center justify-center text-yellow-500 shrink-0">
                 <Mail size={14} />
               </div>
-              info@penguinbookpublishers.net
+              info@penguinbookspublisher.com 
             </a>
           </div>
 
