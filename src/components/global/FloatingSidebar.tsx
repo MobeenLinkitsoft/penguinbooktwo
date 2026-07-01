@@ -25,7 +25,7 @@ export default function FloatingSidebar() {
 
       {/* Call Now */}
       <a
-        href="tel:+1 646 344 0382"
+        href="tel:+1 (888) 919-9811"
         className="bg-slate-900 text-white p-3 hover:bg-slate-800 transition flex flex-col items-center justify-center gap-1 group border-y border-slate-700"
       >
         <Phone size={20} className="group-hover:scale-110 transition" />

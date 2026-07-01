@@ -516,7 +516,7 @@ export default function TestimonialsPage() {
             <div className="text-center space-y-3 p-6 bg-white rounded-2xl shadow-sm border border-slate-100">
               <h4 className="font-bold text-slate-900">Make a Call</h4>
               <a href="tel:+16463440382" className="flex justify-center items-center gap-2 w-full border-2 border-yellow-400 text-yellow-600 font-bold py-3 px-4 rounded-lg hover:bg-yellow-50 transition bg-white">
-                <Phone size={16} /> +1 646 344 0382
+                <Phone size={16} /> +1 (888) 919-9811
               </a>
             </div>
             <div className="text-center space-y-3 p-6 bg-white rounded-2xl shadow-sm border border-slate-100">

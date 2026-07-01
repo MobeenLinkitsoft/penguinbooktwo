@@ -379,7 +379,7 @@ export default function AmazonPublishingPage() {
               className="bg-slate-900 text-white px-10 py-4 rounded-xl font-bold hover:bg-slate-800 transition shadow-xl uppercase text-sm tracking-widest flex items-center gap-2"
             >
               <Phone size={18} />
-              +1 646 344 0382
+              +1 (888) 919-9811
             </a>
             <button
               onClick={() => setIsModalOpen(true)}
@@ -610,7 +610,7 @@ export default function AmazonPublishingPage() {
                 href="tel:+16463440382"
                 className="block w-full border border-slate-200 text-slate-700 font-medium py-3 px-4 rounded-lg hover:bg-slate-50 transition bg-white"
               >
-                +1 646 344 0382
+                +1 (888) 919-9811
               </a>
             </div>
 

@@ -284,7 +284,7 @@ export default function Home() {
         </p>
         <div className="flex justify-center gap-4">
           <button className="bg-yellow-600 text-white px-8 py-3 rounded font-bold hover:bg-yellow-700 transition shadow-md">
-            +1 646 344 0382
+            +1 (888) 919-9811
           </button>
           <button
             onClick={() => Crisp.chat.open()}
@@ -787,7 +787,7 @@ export default function Home() {
             </h3>
             <p className="text-slate-500 text-sm mb-10">
               Fill out the form below or call us at{" "}
-              <strong>+1 646 344 0382</strong>
+              <strong>+1 (888) 919-9811</strong>
             </p>
 
             <form

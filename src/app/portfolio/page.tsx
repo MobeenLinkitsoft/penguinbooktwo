@@ -154,7 +154,7 @@ export default function PortfolioPage() {
               className="bg-yellow-600 text-white px-8 py-4 rounded-md font-bold hover:bg-yellow-500 transition shadow-lg uppercase text-sm tracking-widest flex items-center gap-2"
             >
               <Phone className="w-4 h-4" />
-              +1 646 344 0382
+              +1 (888) 919-9811
             </a>
             <button
               onClick={() => Crisp.chat.open()}
@@ -289,7 +289,7 @@ export default function PortfolioPage() {
                 href="tel:+16463440382"
                 className="block w-full bg-slate-50 text-slate-900 font-semibold py-3 px-4 rounded-md hover:bg-slate-100 transition border border-slate-200"
               >
-                +1 646 344 0382
+                +1 (888) 919-9811
               </a>
             </div>
             <div className="text-center space-y-4 p-6 rounded-2xl bg-white border border-slate-200 shadow-sm hover:shadow-md transition">

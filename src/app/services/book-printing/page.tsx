@@ -357,7 +357,7 @@ export default function BookPrintingPage() {
           </p>
           <div className="flex flex-wrap justify-center gap-4 pt-6">
             <a href="tel:+16463440382" className="bg-slate-900 text-white px-10 py-4 rounded font-bold hover:bg-slate-800 transition shadow-lg uppercase text-sm tracking-widest flex items-center gap-2">
-              <Phone size={18} /> +1 646 344 0382
+              <Phone size={18} /> +1 (888) 919-9811
             </a>
             <button
               onClick={() => setIsModalOpen(true)}
@@ -579,7 +579,7 @@ export default function BookPrintingPage() {
                   href="tel:+16463440382"
                   className="text-slate-500 hover:text-yellow-600 font-medium transition text-sm"
                 >
-                  +1 646 344 0382
+                  +1 (888) 919-9811
                 </a>
               </div>
             </div>

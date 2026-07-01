@@ -442,7 +442,7 @@ export default function ArticleWritingPage() {
                 href="tel:+16463440382"
                 className="block w-full border border-slate-200 text-slate-700 font-medium py-3 px-4 rounded-lg hover:bg-white hover:border-slate-300 transition bg-white"
               >
-                +1 646 344 0382
+                +1 (888) 919-9811
               </a>
             </div>
 

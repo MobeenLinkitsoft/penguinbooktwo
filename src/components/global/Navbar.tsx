@@ -129,7 +129,7 @@ export default function Navbar() {
             href="tel:+16463440382"
             className="hidden xl:flex items-center gap-2 text-slate-300 text-xs font-bold tracking-wider hover:text-white transition"
           >
-            <Phone size={14} className="text-yellow-500" /> +1 646 344 0382
+            <Phone size={14} className="text-yellow-500" /> +1 (888) 919-9811
           </a>
           
           {/* Crisp Chat Trigger */}

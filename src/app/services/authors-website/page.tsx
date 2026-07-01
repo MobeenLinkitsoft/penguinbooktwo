@@ -312,10 +312,10 @@ export default function AuthorWebsitePage() {
           </p>
           <div className="flex flex-wrap justify-center gap-4 pt-4">
             <a 
-              href="tel:+1 646 344 0382"
+              href="tel:+1 (888) 919-9811"
               className="bg-white text-indigo-900 px-10 py-4 rounded-full font-extrabold hover:bg-indigo-50 transition-colors shadow-xl uppercase text-sm tracking-widest flex items-center gap-2"
             >
-              <Phone size={18} /> +1 646 344 0382
+              <Phone size={18} /> +1 (888) 919-9811
             </a>
             <button 
               onClick={() => setIsModalOpen(true)}
@@ -515,10 +515,10 @@ export default function AuthorWebsitePage() {
               </div>
               <h4 className="font-bold text-slate-900">Make a Call</h4>
               <a
-                href="tel:+1 646 344 0382"
+                href="tel:+1 (888) 919-9811"
                 className="block w-full text-indigo-600 font-semibold py-2.5 px-4 rounded-lg hover:bg-indigo-50 transition-colors text-sm"
               >
-                +1 646 344 0382
+                +1 (888) 919-9811
               </a>
             </div>
 
