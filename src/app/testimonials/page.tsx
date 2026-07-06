@@ -472,7 +472,7 @@ export default function TestimonialsPage() {
               <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <div className="flex flex-col gap-6">
                   <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
-                  <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
+                  <input type="hidden" name="redirect" value="https://penguinebookspublishing.com/thank-you" />
                   
                   <input type="text" placeholder="Full Name" required name="name" className="w-full border-b-2 border-slate-200 p-4 text-sm focus:border-yellow-500 outline-none transition bg-slate-50/50 rounded-t-md" />
                   <input type="email" placeholder="Email Address" name="email" required className="w-full border-b-2 border-slate-200 p-4 text-sm focus:border-yellow-500 outline-none transition bg-slate-50/50 rounded-t-md" />

@@ -75,7 +75,7 @@ export default function ArticleWritingPage() {
               
              <form action="https://api.web3forms.com/submit" method="POST" className="space-y-4">
                 <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
-                <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
+                <input type="hidden" name="redirect" value="https://penguinebookspublishing.com/thank-you" />
 
                 <input
                   type="text"
@@ -350,7 +350,7 @@ export default function ArticleWritingPage() {
                 {/* Left Column */}
                 <div className="flex flex-col gap-6">
                   <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
-                  <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
+                  <input type="hidden" name="redirect" value="https://penguinebookspublishing.com/thank-you" />
   
                   <input
                     type="text"

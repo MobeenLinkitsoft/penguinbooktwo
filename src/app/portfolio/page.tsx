@@ -202,7 +202,7 @@ export default function PortfolioPage() {
                   <input
                     type="hidden"
                     name="redirect"
-                    value="https://penguinbookspublisher.com/thank-you"
+                    value="https://penguinebookspublishing.com/thank-you"
                   />
 
                   <input

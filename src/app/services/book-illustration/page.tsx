@@ -103,7 +103,7 @@ export default function BookIllustrationsPage() {
                 className="space-y-5"
               >
                 <input type="hidden" name="access_key" value="f10abfcd-14e6-40dc-852b-ed7b35bd9825" />
-                <input type="hidden" name="redirect" value="https://penguinbookspublisher.com/thank-you" />
+                <input type="hidden" name="redirect" value="https://penguinebookspublishing.com/thank-you" />
 
                 <input
                   type="text"
@@ -541,7 +541,7 @@ export default function BookIllustrationsPage() {
                   <input 
                     type="hidden" 
                     name="redirect" 
-                    value="https://penguinbookspublisher.com/thank-you" 
+                    value="https://penguinebookspublishing.com/thank-you" 
                   />
   
                   <input
