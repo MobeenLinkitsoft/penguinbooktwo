@@ -621,10 +621,10 @@ export default function AmazonPublishingPage() {
               </div>
               <h4 className="font-bold text-slate-900">Send an Email</h4>
               <a
-                href="mailto:info@penguinbookspublisher.com "
+                href="mailto:info@penguinebookspublishing.com "
                 className="block w-full border border-slate-200 text-slate-700 font-medium py-3 px-2 rounded-lg hover:bg-slate-50 transition bg-white text-sm"
               >
-                info@penguinbookspublisher.com 
+                info@penguinebookspublishing.com 
               </a>
             </div>
           </div>

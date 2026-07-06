@@ -591,10 +591,10 @@ export default function BookPrintingPage() {
               <div>
                 <h4 className="font-bold text-slate-900 text-sm uppercase tracking-wider mb-2">Send an Email</h4>
                 <a
-                  href="mailto:info@penguinbookspublisher.com "
+                  href="mailto:info@penguinebookspublishing.com "
                   className="text-slate-500 hover:text-yellow-600 font-medium transition text-sm"
                 >
-                  info@penguinbookspublisher.com 
+                  info@penguinebookspublishing.com 
                 </a>
               </div>
             </div>

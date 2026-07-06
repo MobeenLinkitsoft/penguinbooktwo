@@ -521,8 +521,8 @@ export default function TestimonialsPage() {
             </div>
             <div className="text-center space-y-3 p-6 bg-white rounded-2xl shadow-sm border border-slate-100">
               <h4 className="font-bold text-slate-900">Send us Email</h4>
-              <a href="mailto:info@penguinbookspublisher.com " className="flex justify-center items-center gap-2 w-full border-2 border-yellow-400 text-yellow-600 font-bold py-3 px-2 rounded-lg hover:bg-yellow-50 transition bg-white text-xs sm:text-sm truncate">
-                info@penguinbookspublisher.com 
+              <a href="mailto:info@penguinebookspublishing.com " className="flex justify-center items-center gap-2 w-full border-2 border-yellow-400 text-yellow-600 font-bold py-3 px-2 rounded-lg hover:bg-yellow-50 transition bg-white text-xs sm:text-sm truncate">
+                info@penguinebookspublishing.com 
               </a>
             </div>
           </div>

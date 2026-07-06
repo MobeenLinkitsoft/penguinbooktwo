@@ -298,10 +298,10 @@ export default function PortfolioPage() {
               </div>
               <h4 className="font-bold text-slate-900">Send an Email</h4>
               <a
-                href="mailto:info@penguinbookspublisher.com "
+                href="mailto:info@penguinebookspublishing.com "
                 className="block w-full bg-slate-50 text-slate-900 font-semibold py-3 px-2 rounded-md hover:bg-slate-100 transition border border-slate-200 text-sm"
               >
-                info@penguinbookspublisher.com 
+                info@penguinebookspublishing.com 
               </a>
             </div>
           </div>

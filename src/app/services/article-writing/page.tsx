@@ -453,10 +453,10 @@ export default function ArticleWritingPage() {
               </div>
               <h4 className="font-bold text-slate-900">Send us an Email</h4>
               <a
-                href="mailto:info@penguinbookspublisher.com "
+                href="mailto:info@penguinebookspublishing.com "
                 className="block w-full border border-slate-200 text-slate-700 font-medium py-3 px-2 rounded-lg hover:bg-white hover:border-slate-300 transition bg-white text-sm"
               >
-                info@penguinbookspublisher.com 
+                info@penguinebookspublishing.com 
               </a>
             </div>
           </div>

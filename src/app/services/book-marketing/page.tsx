@@ -548,10 +548,10 @@ export default function BookMarketingPage() {
               </div>
               <h4 className="font-bold text-slate-900">Send us Email</h4>
               <a
-                href="mailto:info@penguinbookspublisher.com "
+                href="mailto:info@penguinebookspublishing.com "
                 className="block w-full text-blue-600 font-semibold py-2.5 px-4 rounded-lg hover:bg-blue-100 transition-colors text-sm"
               >
-                info@penguinbookspublisher.com 
+                info@penguinebookspublishing.com 
               </a>
             </div>
           </div>

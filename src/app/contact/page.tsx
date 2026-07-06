@@ -212,10 +212,10 @@ export default function ContactPage() {
             <div className="text-center space-y-3">
               <h4 className="font-bold text-slate-900">Email Our Team</h4>
               <a
-                href="mailto:info@penguinbookspublisher.com "
+                href="mailto:info@penguinebookspublishing.com "
                 className="block w-full border border-yellow-400 text-yellow-600 font-medium py-3 px-2 rounded-md hover:bg-yellow-50 transition bg-white text-sm md:text-base truncate"
               >
-                info@penguinbookspublisher.com 
+                info@penguinebookspublishing.com 
               </a>
             </div>
           </div>
