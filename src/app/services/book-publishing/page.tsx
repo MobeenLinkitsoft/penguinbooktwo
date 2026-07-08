@@ -6,7 +6,7 @@ import { Search, FileText, LayoutTemplate } from "lucide-react";
 import { Crisp } from "crisp-sdk-web";
 import QuoteModal from "@/src/components/global/QuoteModal";
 
-export default function EbookWritingPage() {
+export default function BookPublishingPage() {
   // Modal State
   const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -38,14 +38,14 @@ export default function EbookWritingPage() {
           <div className="lg:col-span-7 space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10 border border-white/20 backdrop-blur-sm">
               <span className="w-2 h-2 rounded-full bg-yellow-500 animate-pulse"></span>
-              <span className="text-white text-xs font-bold uppercase tracking-widest">eBook Writing & Publishing</span>
+              <span className="text-white text-xs font-bold uppercase tracking-widest">Book Publishing Services</span>
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-white leading-tight tracking-tight">
-              Bring Your Ideas to Life with Professional eBook Writing Services.
+              Take Your Manuscript to the Global Stage.
             </h1>
             <p className="text-lg text-slate-300 max-w-xl leading-relaxed font-medium">
-              Our expert eBook writers specialize in turning your concepts into engaging, high-quality digital manuscripts ready for Kindle, Apple Books, and worldwide distribution.
+              Our comprehensive book publishing services transform your finished manuscript into a polished masterpiece, ready for Amazon KDP, Barnes & Noble, Apple Books, and bookstores worldwide.
             </p>
             <div className="flex flex-wrap gap-4 pt-2">
               <button 
@@ -69,8 +69,8 @@ export default function EbookWritingPage() {
               <div className="absolute -top-6 right-8 bg-yellow-600 text-white text-xs font-bold uppercase tracking-widest py-2 px-4 rounded shadow-lg">
                 20% Off Today
               </div>
-              <h3 className="text-2xl font-black text-slate-900 mb-2">Get Started!</h3>
-              <p className="text-sm text-slate-500 mb-8">Consult with a digital publishing expert for free.</p>
+              <h3 className="text-2xl font-black text-slate-900 mb-2">Publish Now!</h3>
+              <p className="text-sm text-slate-500 mb-8">Consult with a book publishing expert for free.</p>
               
               <form
                 action="https://api.web3forms.com/submit"
@@ -169,13 +169,13 @@ export default function EbookWritingPage() {
       <section className="py-24 max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-2 gap-16 items-center bg-white">
         <div className="space-y-6">
           <h2 className="text-3xl md:text-4xl font-black text-slate-900 leading-tight">
-            Take Your eBook to the Next Level with Professional Services
+            Turn Your Manuscript Into a Globally Recognized Bestseller
           </h2>
           <p className="text-slate-600 leading-relaxed text-sm md:text-base">
-            Writing an eBook requires more than just compiling text. It demands a deep understanding of digital formatting, reader engagement, and platform-specific requirements like Amazon KDP formatting.
+            Publishing a book requires a complex understanding of metadata, cover design, formatting, and platform algorithms. Whether you aim to self-publish or establish a traditional presence, navigating the publishing world can be overwhelming.
           </p>
           <p className="text-slate-600 leading-relaxed text-sm md:text-base">
-            Whether you want to generate leads for your business, establish authority in your niche, or publish the next great digital fiction, our team of dedicated ghostwriters and digital strategists are here to execute your vision flawlessly.
+            Our specialized book publishers take care of everything—from ISBN allocation and copyright registration to Kindle Direct Publishing (KDP), paperback print-on-demand, and widespread global distribution via IngramSpark. We ensure your book looks flawless and reaches readers worldwide.
           </p>
           <div className="flex flex-wrap gap-4 pt-4">
             <button 
@@ -198,7 +198,7 @@ export default function EbookWritingPage() {
           <div className="relative w-64 h-96 rounded-lg shadow-2xl overflow-hidden transform rotate-3 hover:rotate-0 transition duration-500 border-4 border-white">
             <Image 
               src="/Book/Book12.jpg" 
-              alt="Featured eBook" 
+              alt="Featured Published Book" 
               fill 
               className="object-cover" 
             />
@@ -210,27 +210,17 @@ export default function EbookWritingPage() {
       <section className="py-20 bg-slate-50 border-y border-slate-200">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-black text-slate-900 tracking-tight">Expert eBook Services Tailored to Your Needs</h2>
+            <h2 className="text-3xl font-black text-slate-900 tracking-tight">Comprehensive Publishing Solutions</h2>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
             <div className="bg-white p-10 rounded-2xl shadow-sm border border-slate-100 text-center hover:shadow-xl transition-all group">
               <div className="w-16 h-16 mx-auto bg-yellow-50 text-yellow-600 rounded-xl flex items-center justify-center mb-6 group-hover:bg-yellow-600 group-hover:text-white transition-colors transform group-hover:-translate-y-1">
-                <Search size={28} />
-              </div>
-              <h3 className="font-bold text-slate-900 text-lg mb-3">Thorough Topic Research</h3>
-              <p className="text-sm text-slate-600 leading-relaxed max-w-xs mx-auto">
-                Before the first word is typed, our writers conduct extensive research to ensure your eBook is highly informative, fact-checked, and perfectly positioned for your target demographic.
-              </p>
-            </div>
-
-            <div className="bg-white p-10 rounded-2xl shadow-sm border border-slate-100 text-center hover:shadow-xl transition-all group">
-              <div className="w-16 h-16 mx-auto bg-yellow-50 text-yellow-600 rounded-xl flex items-center justify-center mb-6 group-hover:bg-yellow-600 group-hover:text-white transition-colors transform group-hover:-translate-y-1">
                 <FileText size={28} />
               </div>
-              <h3 className="font-bold text-slate-900 text-lg mb-3">Streamlined Writing</h3>
+              <h3 className="font-bold text-slate-900 text-lg mb-3">Manuscript Formatting</h3>
               <p className="text-sm text-slate-600 leading-relaxed max-w-xs mx-auto">
-                A collaborative and transparent workflow where you receive regular drafts. Our writers seamlessly adopt your tone of voice to create a manuscript that sounds exactly like you.
+                We prepare your document strictly adhering to industry standards. This includes seamless typesetting, pagination, font selection, and structural styling for print and digital reading.
               </p>
             </div>
 
@@ -238,9 +228,19 @@ export default function EbookWritingPage() {
               <div className="w-16 h-16 mx-auto bg-yellow-50 text-yellow-600 rounded-xl flex items-center justify-center mb-6 group-hover:bg-yellow-600 group-hover:text-white transition-colors transform group-hover:-translate-y-1">
                 <LayoutTemplate size={28} />
               </div>
-              <h3 className="font-bold text-slate-900 text-lg mb-3">Quality & Formatting</h3>
+              <h3 className="font-bold text-slate-900 text-lg mb-3">Cover Design & Branding</h3>
               <p className="text-sm text-slate-600 leading-relaxed max-w-xs mx-auto">
-                Once approved, the manuscript undergoes rigorous editorial reviews. Finally, we format it beautifully for digital reading devices like Kindle, iPad, and generic eReaders (EPUB/MOBI).
+                People do judge a book by its cover. Our design experts create captivating, click-worthy covers for eBooks, Paperbacks, and Hardcovers to ensure maximum reader engagement.
+              </p>
+            </div>
+
+            <div className="bg-white p-10 rounded-2xl shadow-sm border border-slate-100 text-center hover:shadow-xl transition-all group">
+              <div className="w-16 h-16 mx-auto bg-yellow-50 text-yellow-600 rounded-xl flex items-center justify-center mb-6 group-hover:bg-yellow-600 group-hover:text-white transition-colors transform group-hover:-translate-y-1">
+                <Search size={28} />
+              </div>
+              <h3 className="font-bold text-slate-900 text-lg mb-3">Global Distribution</h3>
+              <p className="text-sm text-slate-600 leading-relaxed max-w-xs mx-auto">
+                We assign your ISBN, barcode, and metadata tags before distributing your book across platforms like Amazon, Kobo, Apple Books, Google Books, and local retail systems.
               </p>
             </div>
           </div>
@@ -250,15 +250,15 @@ export default function EbookWritingPage() {
       {/* ================= 5. ALL PORTFOLIO BOOKS GRID ================= */}
       <section className="py-24 bg-slate-900 text-white border-y-[6px] border-yellow-600">
         <div className="max-w-7xl mx-auto px-6 text-center">
-          <h4 className="text-yellow-500 font-bold uppercase tracking-widest text-sm mb-4">Digital Library</h4>
-          <h2 className="text-3xl md:text-5xl font-black mb-16 tracking-tight">Our eBook Portfolio</h2>
+          <h4 className="text-yellow-500 font-bold uppercase tracking-widest text-sm mb-4">Published Works</h4>
+          <h2 className="text-3xl md:text-5xl font-black mb-16 tracking-tight">Our Publishing Portfolio</h2>
           
           <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4 md:gap-6">
             {portfolioBooks.map((cover, i) => (
               <div key={i} className="aspect-[2/3] relative rounded-lg overflow-hidden shadow-2xl border border-slate-700 group cursor-pointer hover:border-yellow-500 transition-colors">
                 <Image 
                   src={cover} 
-                  alt={`Portfolio Book ${i + 1}`} 
+                  alt={`Published Book ${i + 1}`} 
                   fill 
                   sizes="(max-width: 768px) 50vw, (max-width: 1200px) 25vw, 16vw"
                   className="object-cover group-hover:scale-110 transition-transform duration-500"
@@ -278,10 +278,10 @@ export default function EbookWritingPage() {
       <section className="py-16 bg-white border-b border-slate-200">
         <div className="max-w-6xl mx-auto px-6 text-center space-y-6">
           <h2 className="text-3xl md:text-4xl font-black text-slate-900 uppercase tracking-tight">
-            Take your eBook to the next level
+            Ready to become a published author?
           </h2>
           <p className="text-yellow-600 font-bold text-sm uppercase tracking-widest">
-            We help bring your ideas to life in the form of a meticulously written and published eBook
+            Let us handle the technicalities while you reap the rewards of being a published writer.
           </p>
           <div className="flex flex-wrap justify-center gap-4 pt-4">
             <button className="bg-slate-900 text-white px-10 py-3.5 rounded font-bold hover:bg-slate-800 transition shadow-md uppercase text-sm tracking-widest">
@@ -301,7 +301,7 @@ export default function EbookWritingPage() {
       <section className="py-24 bg-slate-50">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
-            <h2 className="text-3xl md:text-4xl font-black text-slate-900 tracking-tight">Our Process For eBook Writing</h2>
+            <h2 className="text-3xl md:text-4xl font-black text-slate-900 tracking-tight">Our Process For Book Publishing</h2>
             <div className="w-24 h-1.5 bg-yellow-600 mx-auto rounded-full mt-6"></div>
           </div>
 
@@ -312,7 +312,7 @@ export default function EbookWritingPage() {
               {/* Using img tag here for external Unsplash URL to bypass Next config issues securely */}
               <img 
                 src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?q=80&w=800&auto=format&fit=crop" 
-                alt="eBook Writing Process" 
+                alt="Book Publishing Process" 
                 className="w-full h-[500px] object-cover rounded-2xl shadow-2xl border border-slate-200"
               />
             </div>
@@ -323,9 +323,9 @@ export default function EbookWritingPage() {
               <div className="flex gap-6">
                 <div className="text-7xl font-bold text-slate-300 font-serif leading-none shrink-0 w-16 text-center">1</div>
                 <div>
-                  <h4 className="text-xl font-bold text-slate-900 mb-2">Consultation & Topic Selection</h4>
+                  <h4 className="text-xl font-bold text-slate-900 mb-2">Manuscript Evaluation</h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
-                    We start by understanding your goals, target audience, and core message. If you are unsure about the topic, our strategists will help identify trending niches to maximize your eBook's impact.
+                    We begin by reviewing your completed manuscript to identify necessary adjustments. Our publishing experts assess word count, genre, and target audience to strategize your book's release.
                   </p>
                 </div>
               </div>
@@ -333,9 +333,9 @@ export default function EbookWritingPage() {
               <div className="flex gap-6">
                 <div className="text-7xl font-bold text-slate-300 font-serif leading-none shrink-0 w-16 text-center">2</div>
                 <div>
-                  <h4 className="text-xl font-bold text-slate-900 mb-2">Extensive Research & Writing</h4>
+                  <h4 className="text-xl font-bold text-slate-900 mb-2">Formatting & Typesetting</h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
-                    Our ghostwriters dive deep into research, ensuring the content is accurate and highly engaging. We write chapter by chapter, allowing you to review the tone and direction consistently.
+                    A sloppy interior ruins the reading experience. We professionally format your book for different mediums—adjusting margins, typography, and layout specifically for Kindle (ePub) and Print formats.
                   </p>
                 </div>
               </div>
@@ -343,9 +343,9 @@ export default function EbookWritingPage() {
               <div className="flex gap-6">
                 <div className="text-7xl font-bold text-slate-300 font-serif leading-none shrink-0 w-16 text-center">3</div>
                 <div>
-                  <h4 className="text-xl font-bold text-slate-900 mb-2">Review, Editing & Proofreading</h4>
+                  <h4 className="text-xl font-bold text-slate-900 mb-2">Cover Design & Optimization</h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
-                    A first draft is never final. Our veteran editors refine the manuscript, correcting grammar, improving flow, and ensuring the narrative hooks digital readers from the first page.
+                    Our team creates high-quality, genre-specific cover art. We ensure the spine, bleed, and back cover meet physical print dimensions while keeping the front cover compelling for thumbnail displays on digital stores.
                   </p>
                 </div>
               </div>
@@ -353,9 +353,9 @@ export default function EbookWritingPage() {
               <div className="flex gap-6">
                 <div className="text-7xl font-bold text-slate-300 font-serif leading-none shrink-0 w-16 text-center">4</div>
                 <div>
-                  <h4 className="text-xl font-bold text-slate-900 mb-2">Formatting & Design</h4>
+                  <h4 className="text-xl font-bold text-slate-900 mb-2">Publishing & Global Reach</h4>
                   <p className="text-sm text-slate-600 leading-relaxed">
-                    Digital readers require flawless formatting. We typeset your eBook for flawless rendering on Kindle, Apple Books, and other eReaders, paired with a stunning, click-worthy cover.
+                    After final approval, we handle ISBN registration, copyrighting, and uploading your book. We configure pricing, meta descriptions, and keywords to rank your book globally on platforms like Amazon and Barnes & Noble.
                   </p>
                 </div>
               </div>

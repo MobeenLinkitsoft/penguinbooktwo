@@ -13,8 +13,8 @@ export default function Navbar() {
 
   // Complete services list
   const servicesList = [
-    { title: "GhostWriting", href: "/services/book-writing" },
-    { title: "Book Publishing", href: "/services/ebook-writing" },
+    { title: "GhostWriting", href: "/services/ghost-writing" }, 
+    { title: "Book Publishing", href: "/services/book-publishing" },
     { title: "Book Editing & Proofreading", href: "/services/proofreading" },
     { title: "Book Cover Design", href: "/services/cover-design" },
     { title: "Book Illustrations", href: "/services/book-illustration" },
