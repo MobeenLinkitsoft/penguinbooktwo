@@ -31,13 +31,13 @@ export default function Navbar() {
     <header className="sticky top-0 z-50 w-full flex flex-col">
       
       {/* ================= WARNING BANNER ================= */}
-      <div className="bg-[#FAF8ED] w-full py-2.5 px-6 border-b border-yellow-100/50">
+      {/* <div className="bg-[#FAF8ED] w-full py-2.5 px-6 border-b border-yellow-100/50">
         <div className="max-w-7xl mx-auto flex justify-center items-center">
           <p className="text-black text-xs sm:text-sm font-medium tracking-wide flex items-center gap-2">
             ⚠️ WARNING: SCAMMERS ARE IMPERSONATING PBP EMPLOYEES
           </p>
         </div>
-      </div>
+      </div> */}
 
       {/* ================= MAIN NAVIGATION ================= */}
       <div className="w-full backdrop-blur-md bg-slate-900/90 border-b border-white/10 shadow-sm">
